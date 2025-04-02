@@ -1,0 +1,19 @@
+File,Average PSNR,Average SSIM,Average LPIPS
+output_av1_nvenc_1000k_decoded.yuv,32.0621,0.8304,0.3398
+output_av1_nvenc_1500k_decoded.yuv,33.0515,0.8508,0.2908
+output_av1_nvenc_2000k_decoded.yuv,33.8552,0.8670,0.2521
+output_av1_nvenc_2500k_decoded.yuv,34.5145,0.8802,0.2240
+output_av1_nvenc_3000k_decoded.yuv,35.1163,0.8911,0.1999
+output_av1_nvenc_500k_decoded.yuv,30.3805,0.7976,0.4126
+output_h264_nvenc_1000k_decoded.yuv,29.1379,0.7806,0.3947
+output_h264_nvenc_1500k_decoded.yuv,30.4584,0.8039,0.3381
+output_h264_nvenc_2000k_decoded.yuv,31.3852,0.8213,0.2981
+output_h264_nvenc_2500k_decoded.yuv,32.0975,0.8349,0.2675
+output_h264_nvenc_3000k_decoded.yuv,32.7018,0.8465,0.2418
+output_h264_nvenc_500k_decoded.yuv,27.4103,0.7544,0.4712
+output_hevc_nvenc_1000k_decoded.yuv,31.1541,0.8182,0.3497
+output_hevc_nvenc_1500k_decoded.yuv,32.1728,0.8384,0.3036
+output_hevc_nvenc_2000k_decoded.yuv,33.0023,0.8544,0.2653
+output_hevc_nvenc_2500k_decoded.yuv,33.7669,0.8688,0.2329
+output_hevc_nvenc_3000k_decoded.yuv,34.3810,0.8805,0.2059
+output_hevc_nvenc_500k_decoded.yuv,29.5006,0.7862,0.4265
